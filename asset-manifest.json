@@ -1,14 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.f10a9fb5.css",
-    "main.js": "/static/js/main.4f00e338.js",
+    "main.css": "/static/css/main.6d0f280e.css",
+    "main.js": "/static/js/main.ac9b12a1.js",
     "static/js/787.fa79374b.chunk.js": "/static/js/787.fa79374b.chunk.js",
+    "static/media/bg-video.mp4": "/static/media/bg-video.b260248db76e0e1fce46.mp4",
     "static/media/sports-meet.jpg": "/static/media/sports-meet.7c8d00e3fe0b5551e8d1.jpg",
     "static/media/staff.jpg": "/static/media/staff.36653b7528672432c390.jpg",
     "static/media/aquatics.jpg": "/static/media/aquatics.2624c32c45fd7eeb0339.jpg",
     "static/media/Swimming-pool.jpg": "/static/media/Swimming-pool.9e98f6f679442b9f559b.jpg",
     "static/media/swmming.png": "/static/media/swmming.53010e0269f648c33987.png",
     "static/media/iitgn-sports.jpg": "/static/media/iitgn-sports.b3ec87754ca648e7fbd5.jpg",
+    "static/media/InterIIT_logo_Transparent.png": "/static/media/InterIIT_logo_Transparent.9324a09ec2c0f0936095.png",
     "static/media/IITISM.jpg": "/static/media/IITISM.0c17ba354243813e4258.jpg",
     "static/media/logo-1.png": "/static/media/logo-1.93d18af8509154590ab5.png",
     "static/media/Inter-IIT-logo-circle.jpg": "/static/media/Inter-IIT-logo-circle.32790eccdff6c5c2cf4c.jpg",
@@ -20,8 +22,8 @@
     "static/media/Inter-IIT-logo-new.jpg": "/static/media/Inter-IIT-logo-new.8fee20db6055714770c3.jpg",
     "static/media/IITGOA.jpg": "/static/media/IITGOA.949b19c1858c5af12e39.jpg",
     "static/media/IITK.jpg": "/static/media/IITK.7627dd101efa71abb3dc.jpg",
-    "static/media/temp.jpg": "/static/media/temp.ea74ce4dfe4d9e3b8494.jpg",
     "static/media/IITM.jpg": "/static/media/IITM.92ff1e97d8351104898b.jpg",
+    "static/media/newLogo.jpg": "/static/media/newLogo.2a4d3d13810433f734dc.jpg",
     "static/media/IITRPR.jpg": "/static/media/IITRPR.6d7ae14c74107adc91d1.jpg",
     "static/media/IITI.jpg": "/static/media/IITI.1fd72daef892a230bb57.jpg",
     "static/media/IITGN.jpg": "/static/media/IITGN.a1b7a0093601e7c5fdbf.jpg",
@@ -30,6 +32,7 @@
     "static/media/IITG.jpg": "/static/media/IITG.5b6482488d438ad3b099.jpg",
     "static/media/Inter-IIT-logo.jpg": "/static/media/Inter-IIT-logo.4878950d8499632296a9.jpg",
     "static/media/IITMD.jpg": "/static/media/IITMD.c05fa10a5e72f1f0b51e.jpg",
+    "static/media/temp.jpg": "/static/media/temp.523063feb2c37954cfe4.jpg",
     "static/media/IITJ.jpg": "/static/media/IITJ.4a771cd19defb3f2fa29.jpg",
     "static/media/IITJMU.jpg": "/static/media/IITJMU.912b1fd24328afec4d44.jpg",
     "static/media/IITBH.jpg": "/static/media/IITBH.da493c28e42962666c69.jpg",
@@ -47,12 +50,12 @@
     "static/media/breaststroke.png": "/static/media/breaststroke.4eccfb011f11e875a261.png",
     "static/media/logo.svg": "/static/media/logo.f3a19664dc5e4034ef4f.svg",
     "index.html": "/index.html",
-    "main.f10a9fb5.css.map": "/static/css/main.f10a9fb5.css.map",
-    "main.4f00e338.js.map": "/static/js/main.4f00e338.js.map",
+    "main.6d0f280e.css.map": "/static/css/main.6d0f280e.css.map",
+    "main.ac9b12a1.js.map": "/static/js/main.ac9b12a1.js.map",
     "787.fa79374b.chunk.js.map": "/static/js/787.fa79374b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f10a9fb5.css",
-    "static/js/main.4f00e338.js"
+    "static/css/main.6d0f280e.css",
+    "static/js/main.ac9b12a1.js"
   ]
 }
